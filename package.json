@@ -1,5 +1,5 @@
 {
-  "name": "cs-currency-converter",
+  "name": "gv-currency-converter",
   "version": "1.0.0",
   "description": "An npm package to convert currency",
   "main": "index.js",
@@ -9,18 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anuj-Kumar-Sharma/cs-currency-converter.git"
+    "url": "git+https://github.com/vikash1607/gv-currency-convertor.git"
   },
   "keywords": [
     "npm"
   ],
-  "author": "Anuj Kumar Sharma",
+  "author": "Vikash kumar",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Anuj-Kumar-Sharma/cs-currency-converter/issues"
+    "url": "https://github.com/vikash1607/gv-currency-convertor/issues"
   },
-  "homepage": "https://github.com/Anuj-Kumar-Sharma/cs-currency-converter#readme",
+  "homepage": "https://github.com/vikash1607/gv-currency-convertor#readme",
   "dependencies": {
-    "@everapi/freecurrencyapi-js": "^1.0.1"
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "git": "^0.1.5"
   }
 }
