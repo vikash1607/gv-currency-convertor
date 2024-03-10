@@ -1,2 +1,2 @@
 # gv-currency-convertor
-currency convertor
+built an own npm package for realtime currency convertor.
