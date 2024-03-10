@@ -1,0 +1,29 @@
+{
+  "name": "npmpackkage",
+  "version": "1.0.0",
+  "description": "currency convertor",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "git": "^0.1.5",
+    "mime": "^1.2.9",
+    "npmpackkage": "^1.0.0"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikash1607/gv-currency-convertor.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "vikash kumar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vikash1607/gv-currency-convertor/issues"
+  },
+  "homepage": "https://github.com/vikash1607/gv-currency-convertor#readme"
+}
